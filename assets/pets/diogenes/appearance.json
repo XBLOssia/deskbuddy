@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "Diogenes",
+  "base_sheet": "spritesheet.png",
+  "status_skins": {
+    "working": "skins/working.png",
+    "attention": "skins/attention.png",
+    "done": "skins/done.png",
+    "name": "skins/name.png"
+  }
+}

@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.local/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Personal pet exports, private Library records and image-production history.
+# Only the finished, portable runtime artwork is published.
+assets/pets/diogenes/source/
+assets/pets/diogenes/previews/
+assets/pets/diogenes/v2/
+assets/pets/diogenes/library-archives/
+assets/pets/diogenes/V2-REVIEW.md
+assets/pets/diogenes/skins/*
+!assets/pets/diogenes/skins/default.png
+!assets/pets/diogenes/skins/working.png
+!assets/pets/diogenes/skins/attention.png
+!assets/pets/diogenes/skins/done.png
+!assets/pets/diogenes/skins/name.png
+!assets/pets/diogenes/skins/status-contact-sheet.png
+
+# Local artwork production helpers require the unpublished source material.
+/tools/
